@@ -1,0 +1,117 @@
+body{
+    background-image: url(images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 18px;
+    padding-top: 100px;
+}
+.i img{
+    margin-bottom: 35px;
+   
+}
+.i{
+    padding-bottom: 50px;
+}
+.text{
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.ios{
+    background-color: hsl(171, 66%, 44%);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10px;
+}
+.mac{
+    background-color:hsl(233, 100%, 69%);
+    color: white;
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.tab{
+    display: flex;
+    margin-top: 50px;
+}
+.tab img{
+    margin-right: 20px;
+}
+
+.tab ul{
+    list-style-type: none;
+    align-items: left;
+}
+.use{
+    text-align: left;
+    padding-top: 50px;
+}
+.use p{
+    max-width: 380px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.device{
+    margin-top: 50px;
+}
+.uses{
+    display: flex;
+    justify-content: center;
+}
+.uses div{
+    width: 380px;
+    margin: 25px;
+}
+.uses img{
+    height: 40px;
+}
+.endorse img{
+    margin: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.attribution{
+    justify-content: center;
+
+}
+.end{
+    background-color: hsl(201, 11%, 66%);
+    height: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    display:flex ;
+    width: 50px;
+}
+.about{
+    
+    margin: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.about li{
+    padding-right: 50px;
+}
+.about ul{
+    list-style-type: none;
+    display: flex;
+
+}
+.socials{
+    display: flex;
+}
+.socials img{
+    margin-right: 20px;
+}
